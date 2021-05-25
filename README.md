@@ -5,10 +5,9 @@
 
 
 
-I'm back-end development intern at @ilegra 
+I'm back-end developer at Phi @ 4all 
 
 - 🌱 I’m currently learning Java, Microservices, Cloud Services and Spring Framework.
-- 😄 I study Analysis and Systems Development.
 
 
 ![Iza's github stats](https://github-readme-stats.vercel.app/api?username=izavasconcelos&show_icons=true&theme=dark)
