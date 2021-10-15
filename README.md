@@ -5,7 +5,7 @@
 
 
 
-I'm back-end developer at Phi @ 4all 
+I'm Java Software Engineer at PicPay
 
 - 🌱 I’m currently learning Java, Microservices, Cloud Services and Spring Framework.
 
