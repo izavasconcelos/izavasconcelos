@@ -5,7 +5,7 @@
 
 
 
-I'm Java Software Engineer at PicPay
+I'm Senior Software Engineer at Grupo Boticário
 
 - 🌱 I’m currently learning Java, Microservices, Cloud Services and Spring Framework.
 
